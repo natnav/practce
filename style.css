@@ -1,6 +1,10 @@
     html { 
         background-color: rgb(197, 197, 197);
     }
+
+    body {
+        margin: 0;
+    }
     
     a {
         text-decoration: none;
