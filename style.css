@@ -11,6 +11,10 @@
         color: black;
     }
     /*header*/
+    .fixed-bar {
+        height: 70px;
+    }
+
     .page-title {
         position: fixed;
         top 0;
@@ -20,11 +24,7 @@
         color: white;
         padding: 10px;
         margin: 0;
-    }
-
-    .fixed-bar {
-        height: 70px;
-
+        text-align: center;
     }
 
     .trip-text {
