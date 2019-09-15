@@ -8,7 +8,12 @@
         padding: 10px;
         margin: 0;
     }
+    
     a {
         text-decoration: none;
         color: black;
+    }
+
+    div {
+        background-color: #fa923f
     }
