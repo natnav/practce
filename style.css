@@ -66,6 +66,7 @@
 
     .feedback {
         position: relative;
+        bottom: 18.4px;
         background-color: #521751;
         color: white;
         text-align: center;
@@ -74,7 +75,10 @@
 
 /*footer*/
     .review-clients p, .review-clients img {
-        display: inline;
-        vertical-align: middle;
+        display: flex;
+        align-items: center;
+    }
 
+    .review-clients img {
+        width: 15%;
     }
