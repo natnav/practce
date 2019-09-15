@@ -9,6 +9,7 @@
     a {
         text-decoration: none;
         color: black;
+        background-color: red;
     }
     /*header*/
     .fixed-bar {
@@ -27,9 +28,16 @@
         text-align: center;
     }
 
-    .navigation li {
-        display: inline;
-        
+    /*NAV*/
+    .navigation {
+        text-align: center;
+    }
+    
+    .navigation li, .navigation a {
+        display: inline-block;
+        width: 70px;
+        background-color: yellow;
+
     }
 
     .trip-text {
