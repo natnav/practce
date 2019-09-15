@@ -23,7 +23,7 @@
         height: 40px;
         background-color: #521751;
         color: white;
-        padding: 10px;
+        padding: 10px 0;
         margin: 0;
         text-align: center;
     }
@@ -31,8 +31,9 @@
     /*NAV*/
     .navigation {
         text-align: center;
+        padding: 0;
     }
-    
+
     .navigation li, .navigation a {
         display: inline-block;
         width: 70px;
