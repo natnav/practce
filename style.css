@@ -44,12 +44,12 @@
     .trip-text {
         background-color: #fa923f;
         padding: 0;
+        display: flex;
     }
 
     .trip-text p {
         background-color: white;
         margin: 0;
-        display: inline-block;
         width: 50%;
     }
 
