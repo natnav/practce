@@ -40,20 +40,28 @@
         background-color: yellow;
 
     }
-
+    /*main*/
     .trip-text {
         background-color: #fa923f;
-        padding: 10px;
+        padding: 0;
     }
 
     .trip-text p {
         background-color: white;
         margin: 0;
+        display: inline-block;
+        width: 50%;
     }
 
-/*footer*/
     .feedback {
         background-color: #521751;
         color: white;
         text-align: center;
+    }
+
+/*footer*/
+    .review-clients p, .review-clients img {
+        display: inline;
+        vertical-align: middle;
+
     }
