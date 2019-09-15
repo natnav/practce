@@ -55,6 +55,15 @@
         width: 50%;
     }
 
+    .trip-images {
+        display: flex;
+    }
+    
+    .trip-images img {
+        width: 50%;
+        height: 100%;
+    }
+
     .feedback {
         background-color: #521751;
         color: white;
