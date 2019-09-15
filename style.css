@@ -27,6 +27,11 @@
         text-align: center;
     }
 
+    .navigation li {
+        display: inline;
+        
+    }
+
     .trip-text {
         background-color: #fa923f;
         padding: 10px;
@@ -37,6 +42,7 @@
         margin: 0;
     }
 
+/*footer*/
     .feedback {
         background-color: #521751;
         color: white;
