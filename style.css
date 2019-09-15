@@ -37,7 +37,7 @@
     .navigation li, .navigation a {
         display: inline-block;
         width: 70px;
-        background-color: yellow;
+        background-color: grey;
 
     }
     /*main*/
@@ -65,9 +65,11 @@
     }
 
     .feedback {
+        position: relative;
         background-color: #521751;
         color: white;
         text-align: center;
+        margin: 0;
     }
 
 /*footer*/
