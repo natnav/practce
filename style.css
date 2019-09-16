@@ -57,11 +57,13 @@
 
     .trip-images {
         display: flex;
+        flex-wrap: wrap;
     }
     
     .trip-images img {
         width: 50%;
         height: 100%;
+        min-width: 200px;
     }
 
     .feedback {
