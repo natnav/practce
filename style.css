@@ -12,6 +12,11 @@
         text-decoration: none;
         color: black;
     }
+
+    img:hover {
+        cursor: pointer;
+    }
+
     /*header*/
     .fixed-bar {
         height: 70px;
