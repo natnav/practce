@@ -13,8 +13,8 @@
         color: black;
     }
 
-    img:hover {
-        cursor: pointer;
+    a:active {
+        color: orange;
     }
 
     /*header*/
