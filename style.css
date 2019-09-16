@@ -44,27 +44,11 @@
         font-size: 16px;
         font-size: 0.9rem;
     }
-    
+
     /*main*/
     .trip-text {
         display: none;
     }
-
-    /*
-    .trip-text {
-        background-color: #fa923f;
-        padding: 0;
-        display: flex;
-    }
-
-    .trip-text p {
-        background-color:#521751;
-        color: white;
-        text-align: center;
-        margin: 0;
-        width: 50%;
-        font-size: 1rem;
-    }*/
 
     .trip-images {
         display: flex;
@@ -117,5 +101,22 @@
     @media (min-width: 700px){
         .trip-images img {
             width: 50%;
+        }
+    
+
+    
+        .trip-text {
+            background-color: #fa923f;
+            padding: 0;
+            display: flex;
+        }
+
+        .trip-text p {
+            background-color:#521751;
+            color: white;
+            text-align: center;
+            margin: 0;
+            width: 50%;
+            font-size: 1rem;
         }
     }
